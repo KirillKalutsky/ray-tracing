@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tr_jar</output-path>
+    <root id="archive" name="tr.jar">
+      <element id="module-output" name="tr" />
+    </root>
+  </artifact>
+</component>
